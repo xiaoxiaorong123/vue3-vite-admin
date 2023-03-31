@@ -1,6 +1,6 @@
 <!-- 首页 -->
 <template>
-  <div></div>
+  <div>dev提交</div>
 </template>
 
 <script>
